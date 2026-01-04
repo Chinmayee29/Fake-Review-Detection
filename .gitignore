@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets & outputs
+data/Reviews.csv
+data/reviews_with_rules.csv
+data/final_reviews_with_trust_score.csv
